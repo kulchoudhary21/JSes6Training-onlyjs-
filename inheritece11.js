@@ -35,4 +35,4 @@ class DemoChild extends Demo {
 }
 let d1 = new Demo("Kuldeep",12,12000)
 let d2 = new DemoChild("Ram Kumar",13,1200)
-d.meg()
+d1.meg()
