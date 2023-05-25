@@ -1,4 +1,4 @@
-let str = "hero is hero and honda honda honda";
+let str = "hero is hero and honda honda honda is is is is";
 let arr = {};
 str+=" "
 let temp = "";
